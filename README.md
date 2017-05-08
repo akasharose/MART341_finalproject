@@ -20,7 +20,8 @@ I decided that, since I've already done video games half to death and I don't th
 
 I've had a good deal of experience in Dungeons and Dragons, and writing a run-down for new players could be really, really fun!
 
-##Check-in 2
+## Check-in 2
+
 I created 3 wireframes that make up most of my website. They're all crunched to fit on the document, so I figured I'd explain them each here.
 
 Page 1: The Main Page
