@@ -25,15 +25,15 @@ I've had a good deal of experience in Dungeons and Dragons, and writing a run-do
 I created 3 wireframes that make up most of my website. They're all crunched to fit on the document, so I figured I'd explain them each here.
 
 Page 1: The Main Page
-!Main Page Wireframe(./images/desktop_mainpage_wireframe.jpg)
+![Main Page Wireframe](./images/desktop_mainpage_wireframe.jpg)
 The main page will utilize Parallax scrolling. As you scroll down and are provided with links to the other four pages that make up the website (in addition to having a short description of each section of the site), there'll be large images that box in each descriptory section of content.
 
 Page 2: The Story Page
-!Story Page Wireframe(.images/tablet_storypage_wireframe.jpg)
+![Story Page Wireframe](.images/tablet_storypage_wireframe.jpg)
 The story page is by far going to be my most difficult page. It uses a simple box form to list all the dialog based content (the anecdotes will be media that would be full videos, but I may end up just recording audio files and using those to tell the anecdotes. Placing those in a way that I'm satisfied with will be difficult, as I've never been good at using boxes to stack boxes horizontally.
 
 Page 3: The Gameplay Page
-!Gameplay Page Wireframe(.images/mobile_gameplaypage_wireframe.jpg)
+![Gameplay Page Wireframe](.images/mobile_gameplaypage_wireframe.jpg)
 The gameplay page repeats a basic pattern, over and over again, as you move through three pages. First, a page regarding the basics of combat that has a text section, than an image that helps make the point. Once the basics of combat have been explained, then there's a link to the next gameplay page, which regards Roleplaying. After that page, then there's one more page regarding Soundtracks which will provide links to Youtube videos of songs to use as examples. After that, the move to the next page becomes a return to the home page.
 
 Page 4: Creating Characters
