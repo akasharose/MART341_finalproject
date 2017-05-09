@@ -1,5 +1,5 @@
 body {
-
+  background-color: khaki;
 }
 
 .imagedivide {
@@ -35,7 +35,7 @@ body {
 .pagemiddle {
   display: inline-block;
   vertical-align: middle;
-  margin-top: 12%;
+  margin-top: 9%;
 }
 
 .mainpagestoryimage {
@@ -62,16 +62,8 @@ body {
   background: rgba(230, 230, 230, .1);
 }
 
-.pagelink a {
-  font-size: 2.3em;
+.mainpagetext a {
   text-decoration: none;
-  color: black;
-  text-align: center;
-  text-shadow:
-  -.4px -.4px white,
-  .4px -.4px white,
-  -.4px .4px white,
-  .4px .4px white;
 }
 
 .mainpagecharactersimage {
