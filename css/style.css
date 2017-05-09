@@ -124,6 +124,7 @@ body {
   left: 71.9%;
   border: solid;
   width: 26.85%;
+  padding-bottom: -1em;
 }
 
 .story2 {
@@ -131,4 +132,21 @@ body {
   left: 71.9%;
   border: solid;
   width: 26.85%;
+  padding-bottom: -1em;
+}
+
+.gameplayheading {
+
+}
+
+.gameplaytext {
+
+}
+
+.gameplayimage {
+
+}
+
+.soundtrackexample {
+
 }
