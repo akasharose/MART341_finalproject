@@ -1,0 +1,91 @@
+body {
+
+}
+
+.imagedivide {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.mainpageheadingimage {
+  position: relative;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-image: url("../websiteImages/Pathfinder-At-War.jpg");
+  min-height: 100vh;
+  margin-top: -42px;
+}
+
+.mainpageheading {
+  text-align: center;
+  font-size: 2em;
+  letter-spacing: 1px;
+  text-shadow:
+  -1px -1px 0 white,
+  1px -1px 0 white,
+  -1px 1px 0 white,
+  1px 1px 0 white;
+  padding-left: 5em;
+  padding-right: 5em;
+}
+
+.pagemiddle {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 15%;
+}
+
+.mainpagestoryimage {
+  position: relative;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-image: url("../websiteImages/YawningPortal_Hero_Animation_PreLoader.jpg");
+  min-height: 100vh;
+}
+
+.mainpagetext {
+  text-align: center;
+  font-size: 2em;
+  letter-spacing: 1px;
+  text-shadow:
+  -1px -1px 0 white,
+  1px -1px 0 white,
+  -1px 1px 0 white,
+  1px 1px 0 white;
+  padding-left: 5em;
+  padding-right: 5em;
+}
+
+.mainpagecharactersimage {
+  position: relative;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-image: url("../websiteImages/dramaticDragon.jpg");
+  min-height: 100vh;
+}
+
+.mainpagegameplayimage {
+  position: relative;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-image: url("../websiteImages/goblins.jpg");
+  min-height: 100vh;
+}
+
+.mainpageresourcesimage {
+  position: relative;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-image: url("../websiteImages/dd4.jpg");
+  min-height: 100vh;
+}
