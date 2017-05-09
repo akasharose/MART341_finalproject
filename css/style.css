@@ -95,3 +95,45 @@ body {
   background-image: url("../websiteImages/dd4.jpg");
   min-height: 100vh;
 }
+
+.storypageheading {
+  text-align: center;
+}
+
+.structuringstory {
+  padding-left: 1.5em;
+  padding-right: 1em;
+  padding-bottom: 0%;
+  border: solid;
+}
+
+.secondtab {
+  padding-left: 2.5em;
+  padding-right: 1em;
+}
+
+.expectingtheunexpected {
+  padding-left: 2em;
+  padding-bottom: 0%;
+  width: 70%;
+  border: solid;
+}
+
+.story1 {
+  position: relative;
+  left: 71.9%;
+  bottom: 30%;
+  border: solid;
+  padding-left: 1em;
+  padding-bottom: 13.18em;
+  width: 26.85%;
+}
+
+.story2 {
+  position: relative;
+  left: 71.9%;
+  border: solid;
+  padding-left: 1em;
+  padding-bottom: 13.18em;
+  width: 26.85%;
+}
