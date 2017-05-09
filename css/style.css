@@ -20,21 +20,22 @@ body {
 
 .mainpageheading {
   text-align: center;
-  font-size: 2em;
-  letter-spacing: 1px;
+  font-size: 2.3em;
+  letter-spacing: 1.4px;
   text-shadow:
-  -1px -1px 0 white,
-  1px -1px 0 white,
-  -1px 1px 0 white,
-  1px 1px 0 white;
+  -.6px -.6px 0 white,
+  .6px -.6px 0 white,
+  -.6px .6px 0 white,
+  .6px .6px 0 white;
   padding-left: 5em;
   padding-right: 5em;
+  background: rgba(230, 230, 230, .1);
 }
 
 .pagemiddle {
   display: inline-block;
   vertical-align: middle;
-  margin-top: 15%;
+  margin-top: 12%;
 }
 
 .mainpagestoryimage {
@@ -49,7 +50,7 @@ body {
 
 .mainpagetext {
   text-align: center;
-  font-size: 2em;
+  font-size: 2.3em;
   letter-spacing: 1px;
   text-shadow:
   -1px -1px 0 white,
@@ -58,6 +59,19 @@ body {
   1px 1px 0 white;
   padding-left: 5em;
   padding-right: 5em;
+  background: rgba(230, 230, 230, .1);
+}
+
+.pagelink {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  font-size: 2.3em;
+  text-shadow:
+  -.4px -.4px white,
+  .4px -.4px white,
+  -.4px .4px white,
+  .4px .4px white;
 }
 
 .mainpagecharactersimage {
