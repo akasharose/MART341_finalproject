@@ -135,6 +135,13 @@ body {
   padding-bottom: -1em;
 }
 
+.linkback {
+  text-align: center;
+  font-size: 1.5em;
+  text-decoration: none;
+  text-decoration-color: black;
+}
+
 .gameplayheading {
 
 }
@@ -149,4 +156,12 @@ body {
 
 .soundtrackexample {
 
+}
+
+.characterheading {
+  text-align: center;
+}
+
+.charactertext {
+  background-color: skyBlue;
 }
