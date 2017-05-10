@@ -158,12 +158,23 @@ body {
 
 }
 
-.characterheading {
+.nextpage {
+  font-size: 2em;
   text-align: center;
 }
 
-.charactertext {
+.characterheading {
+  text-align: center;
   background-color: skyBlue;
+}
+
+.charactertext {
+
+}
+
+.tableofcontents {
+  text-decoration-color: black;
+  text-decoration-style: none;
 }
 
 .resourcesheading {
@@ -180,5 +191,5 @@ body {
 .backup {
   font-size: 1.4em;
   text-align: right;
-  padding-right: 5em;
+  padding-right: 15%;
 }
