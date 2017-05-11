@@ -149,8 +149,25 @@ body {
   text-decoration: none;
 }
 
-.gameplaytext {
+.gameplayheading {
+  text-align: center;
+  background-color: burlywood;
+}
 
+.gameplayheading2 {
+  text-align: center;
+  background-color: lightslategrey;
+}
+
+.gameplayheading3 {
+  text-align: center;
+  background-color: orangered;
+}
+
+.gameplaytext {
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  font-size: 1em;
 }
 
 .gameplayimage {
