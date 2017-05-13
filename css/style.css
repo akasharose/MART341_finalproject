@@ -117,26 +117,33 @@ body {
   padding-right: 1em;
 }
 
+.nestedgroup {
+  display: block;
+  overflow:hidden;
+}
+
+.nested1 {
+  width:60%;
+  float: left;
+}
+.nested2 {
+  width: 40%;
+  float: left;
+}
+
 .expectingtheunexpected {
   padding-left: 2em;
   padding-bottom: 0%;
-  width: 70%;
   border: solid;
 }
 
 .story1 {
-  position: relative;
-  left: 71.9%;
   border: solid;
-  width: 26.85%;
   padding-bottom: -1em;
 }
 
 .story2 {
-  position: relative;
-  left: 71.9%;
   border: solid;
-  width: 26.85%;
   padding-bottom: -1em;
 }
 
@@ -171,7 +178,7 @@ body {
 }
 
 .gameplayimage {
-  
+
 }
 
 .soundtrackexample {
