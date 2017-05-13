@@ -48,4 +48,15 @@ The Character Page is a simple box form that goes over everything, much like the
 
 Page 5: Resources
 
-This page is a massive number of dropdown lists that link to official resources for the Pathfinder game system, as well as having a fake email to fufill the contact requirement of the assignment.
+This page is a massive number of dropdown lists that link to official resources for the Pathfinder game system, as well as having a fake email to fulfill the contact requirement of the assignment.
+
+## Final Turn-In readme.md:
+
+This final project... took significantly more time than I thought it would. I made a website I thought would be large, but involve simple stylings and such. I knew that using side to side boxes was something I struggled with, so I kept that type of styling down to only once in the entire website. It took a bit of time and trial
+and error to figure out styling, but for the most part everything styled fairly simply -- for the most part, everything ended up in the way I had initially envisioned it. I didn't have time to do any major implementation of style into the gameplay page, mostly because most of that page was going to be slightly styled off of whatever the content was, but other than that, everything went swimmingly.
+
+What I've now gotten significantly better at is <a href></a>, and using that to skip to other pages and other websites, in addition to learning a few different ways to influence that function. I added a random map and email link to the resources.html page just to fulfill the contact page requirement without having to add an entire other page.
+
+The one issue was, naturally, the story page. I, even after everything, have no idea how exactly to get boxes to work as I want them to. I took the code you gave me and try and increase the size of the boxes and the embedded links within them to make the entire page better -- and I could not get it to work. Everything else in html and css I find I can figure out fairly easily, but just horizontal boxes are the thing that limits me massively, which is rather frustrating.
+
+Overall, I like this class -- I'm now fairly confident in python, java, html, and css; personally, I hope I get an opportunity to learn more and more about code, just because I've found I enjoy these kind of things quite a bit. Be well, and I hope to work with you next year! 
